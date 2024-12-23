@@ -1,8 +1,15 @@
 #This is sample readme
-
-  - This is feature a branch
+adadad
+  - This is featadadure a branch
   - The newly added line
 
 This is a simple line added for testing git push
 
-This is from teach branch to re teach
+this is a bad
+line
+just 
+i added
+for fun
+
+def print_sum(a):
+    print(a*a)
