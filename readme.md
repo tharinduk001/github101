@@ -1,8 +1,8 @@
-# This is our good branch
+#This is sample readme
 
-I added new lines
+  - This is feature a branch
+  - The newly added line
 
-- Topics
-- ul
-- li
-- ol
+This is a simple line added for testing git push
+
+This is from teach branch to re teach
